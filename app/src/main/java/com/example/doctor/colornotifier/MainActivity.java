@@ -9,6 +9,11 @@ import android.widget.Button;
 
 public class MainActivity extends Activity {
 
+//TODO: Organize main activity - settings, start/stop
+
+//TODO: Make Image View to show on display.
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
