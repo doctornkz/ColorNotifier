@@ -1,0 +1,3 @@
+# ColorNotifier
+In progress...
+Simple project - colored notification on mobile front display. Useful in silence and dark environment. No vibro, no blink, no sound. Just color.
