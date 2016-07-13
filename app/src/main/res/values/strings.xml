@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ColorNotifier</string>
+    <string name="start">Start Notifier</string>
+    <string name="stop">Stop Notifier</string>
+</resources>
